@@ -1,5 +1,8 @@
 # Local Storage Provider for Orion Filesystem
 
+### Notice
+If you want to use a community package, please check this [lc3t35:orion-filesystem-local](https://github.com/lc3t35/orion-filesystem-local). This repo is for customization and experiment needs. Not guarantee long-time support.
+
 ### Features
 
 * Upload multiple files (images)
